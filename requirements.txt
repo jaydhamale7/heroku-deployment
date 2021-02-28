@@ -6,6 +6,7 @@ MarkupSafe
 werkzeug
 numpy
 scipy
+sklearn
 scikit-learn
 matplotlib
 pandas
